@@ -9,6 +9,10 @@ class Marketplase:
         print(self.nameMarket)
         print(self.urlMarket)
 
+    '''Метод отправки валидированных в БД'''
+    def setData(self):
+        pass
+
 
 
 

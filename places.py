@@ -1,4 +1,4 @@
-market_places = {'lme' : 'www.lme.com', 'fbr' : 'www.fbr.ru'}
+market_places = {'lme': 'www.lme.com', 'fbr': 'www.fbr.ru'}
 
 '''Тест словарей'''
 print(market_places)

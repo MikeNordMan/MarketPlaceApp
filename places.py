@@ -1,4 +1,6 @@
-market_placesDict = {'lme': 'www.lme.com', 'fbr': 'www.fbr.ru'}
+market_placesDict = {'lme': 'http://www.lme.com',
+                     'etpgpb': 'https://gos.etpgpb.ru/44/catalog/procedure',
+                    }
 '''
 Тест словарей
 print(market_placesDict)
